@@ -1,0 +1,24 @@
+{
+  "tool": "artifact-validator",
+  "schemaVersion": "2.0",
+  "validatorVersion": "3.2.3",
+  "result": "valid",
+  "exitCode": 0,
+  "input": {
+    "path": "/mnt/data/tmp_v03/price-monitor-pl-v0.3/products.xlsx",
+    "sha256": "63d45bf1001213c3722e403c44d5e9492438d9b8f16988e761eab87373296be6",
+    "sizeBytes": 5302,
+    "kind": "xlsx"
+  },
+  "output": null,
+  "backup": null,
+  "repair": null,
+  "packageError": null,
+  "summary": {
+    "errorCount": 0,
+    "warningCount": 0,
+    "repairableCount": 0,
+    "issueCount": 0
+  },
+  "issues": []
+}
